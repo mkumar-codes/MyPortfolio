@@ -16,7 +16,7 @@ const  Project_data = [
     {
         name: 'Cart Manager',
         link : 'https://r-cartapp.netlify.app/',
-        code : 'https://github.com/BeastZoro/ReactPro/tree/main/cartapp',
+        code : 'https://github.com/mkumar-codes/ReactPro/tree/main/cartapp',
         desc : 'This React app is designed to enhance your shopping experience. It fetches products via an API and organizes them into dynamic categories, streamlining your choices. With category-based filters, finding your desired products is a breeze. You can easily add products to your cart, adjust quantities, and watch the total update in real-time on the cart page. The magic lies in the useContext hook, effectively managing app states. Plus, the app proudly showcases the total product count in your cart for quick reference.',
         image :cart_app,
         technologies : ['react', 'css']
@@ -24,7 +24,7 @@ const  Project_data = [
     {
         name: 'Teams Manager',
         link : 'https://sciastra-team.netlify.app/',
-        code : 'https://github.com/BeastZoro/ReactPro/tree/main/teampage',
+        code : 'https://github.com/mkumar-codes/ReactPro/tree/main/teampage',
         desc : 'This React app is designed to enhance your shopping experience. It fetches products via an API and organizes them into dynamic categories, streamlining your choices. With category-based filters, finding your desired products is a breeze. You can easily add products to your cart, adjust quantities, and watch the total update in real-time on the cart page. The magic lies in the useContext hook, effectively managing app states. Plus, the app proudly showcases the total product count in your cart for quick reference.',
         image :teams_image,
         technologies : ['react', 'css', 'tailwindcss']
@@ -32,7 +32,7 @@ const  Project_data = [
     {
         name: 'real estate',
         link : '',
-        code : 'https://github.com/BeastZoro/Python_Projects/tree/main/realstate',
+        code : 'https://github.com/mkumar-codes/Python_Projects/tree/main/realstate',
         desc : 'This React app is designed to enhance your shopping experience. It fetches products via an API and organizes them into dynamic categories, streamlining your choices. With category-based filters, finding your desired products is a breeze. You can easily add products to your cart, adjust quantities, and watch the total update in real-time on the cart page. The magic lies in the useContext hook, effectively managing app states. Plus, the app proudly showcases the total product count in your cart for quick reference.',
         image :realstate,
         technologies : ['python', 'django', 'bootstarp', 'css']
@@ -40,7 +40,7 @@ const  Project_data = [
     {
         name: 'React E-commerce',
         link : '',
-        code : 'https://github.com/BeastZoro/FullStackApp.git',
+        code : 'https://github.com/mkumar-codes/FullStackApp.git',
         desc : 'This React app is designed to enhance your shopping experience. It fetches products via an API and organizes them into dynamic categories, streamlining your choices. With category-based filters, finding your desired products is a breeze. You can easily add products to your cart, adjust quantities, and watch the total update in real-time on the cart page. The magic lies in the useContext hook, effectively managing app states. Plus, the app proudly showcases the total product count in your cart for quick reference.',
         image :react_ecoomerce,
         technologies : ['python', 'django', 'bootstarp', 'css', 'tailwindcss']
